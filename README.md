@@ -6,7 +6,7 @@ Link > https://youtu.be/3n4hlB2W4YU
 ## 📌 AZUREBOARDS + TESTS
 Link > https://dev.azure.com/Vision-Hive/Vision-Hive-2TDSPG
 
-O enunciado sugere "Selenium IDE ou Katalon Studio", mas essas ferramentas são para testar websites. Como seu projeto é um aplicativo mobile (React Native), a ferramenta correta e padrão da indústria é a React Native Testing Library (RNTL) com o Jest.
+O enunciado sugere "Selenium IDE ou Katalon Studio", mas essas ferramentas são para testar websites. O projeto é um aplicativo mobile (React Native), a ferramenta correta e padrão da indústria é a React Native Testing Library (RNTL) com o Jest.
 
 ## 📌 Descrição do Projeto Vision Hive
 
