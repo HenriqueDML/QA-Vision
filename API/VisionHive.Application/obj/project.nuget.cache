@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IBVg8Rko0xs=",
+  "dgSpecHash": "a2oce2BGbWI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Henrique\\Desktop\\Vision Hive - Mobile\\VisionHive-Mobile\\API\\VisionHive.Application\\VisionHive.Application.csproj",
+  "projectFilePath": "C:\\Users\\Henrique\\Desktop\\QA-VISION\\QA-Vision\\API\\VisionHive.Application\\VisionHive.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Henrique\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",
     "C:\\Users\\Henrique\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
