@@ -1,7 +1,7 @@
 # VisionHive - Sistema de Gerenciamento de Pátio
 
 ## 📌 Video do Projeto
-Link > https://youtu.be/3n4hlB2W4YU
+Link > https://www.youtube.com/watch?v=DS8Khv_5ELM
 
 ## 📌 AZUREBOARDS + TESTS
 Link > https://dev.azure.com/Vision-Hive/Vision-Hive-2TDSPG
